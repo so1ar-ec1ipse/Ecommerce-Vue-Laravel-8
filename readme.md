@@ -65,8 +65,6 @@ Also, Livewire has comment and Live Search component.
 ![mobile](/screenshots/posts.png)
 
 
-https://www.youtube.com/watch?v=C2zeQ2QR8YU
-
 
 
 # SETUP
